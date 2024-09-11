@@ -28,6 +28,6 @@ sudo apt update
 sudo apt install sublist3r dirb sqlmap nmap wpscan sslyze python3-pip
 pip3 install requests pyfiglet termcolor
 git clone https://github.com/yourusername/ShadowBug.git
-cd ShadowBug
+cd shadowbug
 chmod +x shadowbug.py
 ./shadowbug.py
